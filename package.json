@@ -5,7 +5,7 @@
   "types": "types",
   "files": [
     "dist",
-    "src"
+    "types"
   ],
   "engines": {
     "node": ">=10"
