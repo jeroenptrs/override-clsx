@@ -1,0 +1,5 @@
+types/test.ts
+types/tsconfig.json
+types/tslint.json
+.github/
+node_modules/
