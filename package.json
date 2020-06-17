@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "types",
@@ -7,6 +7,11 @@
     "dist",
     "types"
   ],
+  "homepage": "https://github.com/jeroenptrs/override-clsx#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeroenptrs/override-clsx.git"
+  },
   "engines": {
     "node": ">=10"
   },
